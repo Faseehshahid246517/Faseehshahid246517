@@ -8,10 +8,11 @@
 
 ### 🛠 Tech Stack & Tools
 
-**Languages**
+**Languages & Hardware**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly_(Irvine32)-555555?style=for-the-badge&logo=intel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **Data Science & AI**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,10 +24,21 @@
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
 
-**Visualization & Tools**
+**Visualization & Plotting**
+![Seaborn](https://img.shields.io/badge/Seaborn-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+**Tools**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### 💻 Core Competencies
+
+* **Exploratory Data Analysis (EDA):** extensive experience plotting complex datasets using **Seaborn** and **Matplotlib** to uncover hidden patterns and correlations.
+* **Hardware Integration:** Hands-on experience with **Arduino** coding and circuit integration.
+* **Statistical Modeling:** Specialized in Auto Regression, ARIMA, and Regression Analysis.
 
 ---
 
@@ -34,17 +46,17 @@
 
 **🏠 Housing Price Prediction (Mexico)**
 * Developed a regression model to predict real estate prices across various regions in Mexico.
-* Conducted extensive Exploratory Data Analysis (EDA) to determine correlations between location, property size, and market value.
-* **Stack:** Python, Scikit-Learn, Pandas
+* Conducted deep **EDA and Plotting** to visualize price distribution and outlier detection.
+* **Stack:** Python, Scikit-Learn, Pandas, Seaborn
 
 **🌬️ Air Quality Prediction (Buenos Aires)**
-* Created a predictive model to forecast air quality levels in Buenos Aires using historical sensor data.
-* Implemented ARIMA models for time-series analysis to project future PM2.5 trends.
+* Created a predictive model to forecast air quality levels in Buenos Aires.
+* Implemented **Auto Regression (AutoReg)** and **ARIMA** models for precise time-series forecasting.
 * **Stack:** Time-Series Analysis, Python, Matplotlib
 
 **⚡ AI & API Automation Pipelines**
 * Designed automated workflows using **n8n** to retrieve and filter data from external sources.
-* Implemented logic to process and categorize incoming data streams automatically using AI integrations.
+* Integrated AI agents to process data streams automatically.
 
 ---
 
